@@ -1,0 +1,14 @@
+{
+    "arduino_folder": "E:\\Program Files (x86)\\Arduino", 
+    "baudrate": 10, 
+    "board": 3, 
+    "board_option": {
+        "1.3": [
+            0
+        ]
+    }, 
+    "full_compilation": true, 
+    "platform": 1, 
+    "platform_name": "Arduino AVR Boards", 
+    "serial_port": 1
+}
