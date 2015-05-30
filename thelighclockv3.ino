@@ -6,7 +6,7 @@
 
 
 #define PIXEL_PIN 6  //the pin that attaches to the neopixel strip
-#define N_PIX 100 //the number of pixels in the strip
+#define N_PIX 120 //the number of pixels in the strip
 #define colourbuttonPin 9     // the number of the button to change colour
 #define modebuttonPin 10 // the number of the button to change mode
 
